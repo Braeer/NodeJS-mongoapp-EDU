@@ -10,13 +10,6 @@ https://www.mongodb.com/try/download/shell
 
 Еще должен быть установлен Node.js
 
-## Запуск
-
-`npm install`
-
-`node app.js`
-
-Перейти по ссылке `http://localhost:3000/`
 
 ## Результат
 
