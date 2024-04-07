@@ -13,7 +13,9 @@ async function run() {
   } catch (err) {
     console.log(err);
   } finally {
-    await mongoClient.close();
+    // await mongoClient.close();
   }
 }
 run().catch(console.error);
+
+//Hello
